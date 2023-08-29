@@ -4,7 +4,7 @@
 
 > A clone of the popular communication platform Discord, built using HTML and the Tailwind CSS framework.
 
-[Live Demo](https://shindesuyash-discord-clone.netlify.app) | [Contributing Guidelines](CONTRIBUTING.md) <!-- If you have contributing guidelines -->
+[Live Demo](shindesuyash-dc-clone.netlify.app) | [Contributing Guidelines](CONTRIBUTING.md) <!-- If you have contributing guidelines -->
 
 ## Table of Contents
 

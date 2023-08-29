@@ -32,17 +32,11 @@ Please review and adhere to our [Code of Conduct](#code-of-conduct) to ensure a 
 
 ## Contact
 
-If you have any questions or need assistance, you can reach out to us via [email@example.com](mailto:email@example.com).
+If you have any questions or need assistance, you can reach out to us via [shindesuyash10@gmail.com](mailto:shindesuyash10@gmail.com).
 
 We appreciate your contributions to the Discord Clone project! 🎉
 
 ---
 
-## Code of Conduct
 
-### Our Pledge
-
-In the interest of fostering an open and welcoming environment, we, as contributors and maintainers, pledge to make participation in our project and our community a harassment-free experience for everyone...
-
-<!-- Rest of the code of conduct -->
 

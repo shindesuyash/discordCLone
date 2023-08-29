@@ -63,4 +63,4 @@ Please review our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ---
 
-Feel free to reach out to us via [email@example.com](mailto:shindesuyash10@gmail.com) with any questions or feedback!
+Feel free to reach out to us via [shindesuyash10@gmail.com](mailto:shindesuyash10@gmail.com) with any questions or feedback!
